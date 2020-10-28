@@ -68,5 +68,3 @@ print(resultadoFinal)
 print('')
 print('### Calculo do erro ###')
 print(erro)
-
-nome = input('TESTE')
